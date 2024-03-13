@@ -1,2 +1,6 @@
 transformers
+<<<<<<< HEAD
 Pillow==9.0.0
+=======
+Pillow==9.0.0
+>>>>>>> c5b08a6c07a87a1f837562beb0b52fbdae50e5ff
