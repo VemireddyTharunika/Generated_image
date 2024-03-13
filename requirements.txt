@@ -1,2 +1,2 @@
-transformers==5.5.1
+transformers
 Pillow==9.0.0
